@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 Me chamo Anne Caroline Rocha e sou autora do livro **Simplificando Teste de Software**. [![Amazon Badge](https://img.shields.io/badge/Acesse-aqui-green)](https://www.amazon.com.br/dp/B0CBDXJB7B)
-![Livro](https://carolsprak.github.io/books/capa-mn.png)
+
 Tenho atuado como Analista de Teste Sênior e também ministro aulas em cursos de Tecnologia da Informação (TI) na Ultima School. 
 Minha principal motivação é compartilhar tanto conhecimento teórico como também minhas experiências práticas profissionais por meio de livros e blogs. 
 
