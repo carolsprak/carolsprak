@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 Me chamo Anne Caroline Rocha e sou autora do livro **Simplificando Teste de Software**. [![Amazon Badge](https://img.shields.io/badge/Acesse-aqui-green)](https://www.amazon.com.br/dp/B0CBDXJB7B)
-
+![Livro](https://carolsprak.github.io/books/capa-mn.png)
 Tenho atuado como Analista de Teste Sênior e também ministro aulas em cursos de Tecnologia da Informação (TI) na Ultima School. 
 Minha principal motivação é compartilhar tanto conhecimento teórico como também minhas experiências práticas profissionais por meio de livros e blogs. 
 
@@ -18,7 +18,7 @@ Outras redes sociais que compartilho conteúdo são:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/annecaroline)](https://www.linkedin.com/in/annecaroline)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=youtube&logoColor=white&link=https://www.youtube.com/@annerocha_qa)](https://www.youtube.com/@annerocha_qa)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-darkblue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/annerocha_qa)](https://www.instagram.com/annerocha_qa)
-[![Blog Badge](https://img.shields.io/badge/Blog-gtsw-black)](https://medium.com/gtsw)
+[![Blog Badge](https://img.shields.io/badge/Blog-GTSW-green)](https://medium.com/gtsw)
 
 <!--
 **carolsprak/carolsprak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
