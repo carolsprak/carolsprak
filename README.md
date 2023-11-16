@@ -8,7 +8,7 @@ Minha principal motivação é compartilhar tanto conhecimento teórico como tam
 Ao longo de 15 anos na área, obtive experiências em diferentes linguagens, metodologias e ambientes de programação: 
 - Teste de Software (Selenium, Cypress, Cucumber, Playwright, Supertest)
 - Desenvolvimento Mobile (Flutter, Firebase)
-- Desenvolvimento Web (Java/Hibernate, ReactJs)
+- Desenvolvimento Web (Java/Hibernate, ReactJs e RubyOnRails)
 - HTML5, Javascript, CSS, Git, Bootstrap
 - Banco de dados (MySQL, Postgres)
 - GIT, AWS, Docker
