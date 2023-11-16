@@ -13,6 +13,10 @@ Ao longo de 15 anos na área, obtive experiências em diferentes linguagens, met
 - Banco de dados (MySQL, Postgres)
 - GIT, AWS, Docker
 
+<!-- div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolsprak&layout=compact&langs_count=16&theme=dracula"/>
+</div -->
+
 Outras redes sociais que compartilho conteúdo são:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/annecaroline)](https://www.linkedin.com/in/annecaroline)
