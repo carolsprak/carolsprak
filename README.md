@@ -2,16 +2,6 @@
 
 Me chamo Anne Caroline Rocha e sou autora do livro **Simplificando Teste de Software**. [![Amazon Badge](https://img.shields.io/badge/Acesse-aqui-green)](https://www.amazon.com.br/dp/B0CBDXJB7B)
 
-Tenho atuado como Analista de Teste Sênior e também ministro aulas em cursos de Tecnologia da Informação (TI) na Ultima School. 
-Minha principal motivação é compartilhar tanto conhecimento teórico como também minhas experiências práticas profissionais por meio de livros e blogs. 
-
-Ao longo de 15 anos na área, obtive experiências em diferentes linguagens, metodologias e ambientes de programação: 
-- Teste de Software (Selenium, Cypress, Cucumber, Playwright, Supertest)
-- Desenvolvimento Mobile (Flutter, Firebase)
-- Desenvolvimento Web (Java/Hibernate, ReactJs e RubyOnRails)
-- HTML5, Javascript, CSS, Git, Bootstrap
-- Banco de dados (MySQL, Postgres)
-- GIT, AWS, Docker
 
 <!-- div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolsprak&layout=compact&langs_count=16&theme=dracula"/>
