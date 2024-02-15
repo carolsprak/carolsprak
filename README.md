@@ -1,6 +1,6 @@
 ### Olá, pessoal! 
 
-Me chamo Anne Caroline Rocha e sou autora do livro **Simplificando Teste de Software**. [![Amazon Badge](https://img.shields.io/badge/Acesse-aqui-green)](https://www.amazon.com.br/dp/B0CBDXJB7B)
+Me chamo Anne Caroline Rocha e sou autora do livro **Simplificando Teste de Software**.  https://www.amazon.com.br/dp/B0CBDXJB7B 
 
 
 <!-- div align="center">
