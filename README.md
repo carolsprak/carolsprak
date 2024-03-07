@@ -10,8 +10,8 @@ Me chamo Anne Caroline Rocha e sou autora do livro **Simplificando Teste de Soft
 Outras redes sociais que compartilho conteúdo são:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/annecaroline)](https://www.linkedin.com/in/annecaroline)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=youtube&logoColor=white&link=https://www.youtube.com/@annerocha_qa)](https://www.youtube.com/@annerocha_qa)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/annerocha_qa)](https://www.instagram.com/annerocha_qa)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-f1311c?style=flat-square&labelColor=1ca0f1&logo=youtube&logoColor=white&link=https://www.youtube.com/@annerocha_qa)](https://www.youtube.com/@annerocha_qa)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/annerocha_qa)](https://www.instagram.com/annerocha_qa)
 [![Blog Badge](https://img.shields.io/badge/Blog-GTSW-green)](https://medium.com/gtsw)
 
 <!--
