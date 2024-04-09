@@ -2,7 +2,9 @@
 
 Me chamo Anne Caroline Rocha e sou autora do livro **Simplificando Teste de Software**.  https://www.amazon.com.br/dp/B0CBDXJB7B 
 
-<img src="https://carolsprak.github.io/books/capa.png" alt="livro-teste-software" width="250" height="auto">
+<a href="https://www.amazon.com.br/dp/B0CBDXJB7B" target="_blank">
+  <img src="https://carolsprak.github.io/books/capa.png" alt="livro-teste-software" width="250" height="auto">
+</a>
 
 <!-- div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolsprak&layout=compact&langs_count=16&theme=dracula"/>
