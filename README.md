@@ -1,3 +1,8 @@
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/annecaroline)](https://www.linkedin.com/in/annecaroline)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-f1311c?style=flat-square&labelColor=f1311c&logo=youtube&logoColor=white&link=https://www.youtube.com/@annerocha_qa)](https://www.youtube.com/@annerocha_qa)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/annerocha_qa)](https://www.instagram.com/annerocha_qa)
+[![Blog Badge](https://img.shields.io/badge/Blog-GTSW-green)](https://medium.com/gtsw)
+
 ### Olá, pessoal! 
 
 Me chamo Anne Caroline Rocha e sou autora do livro **Simplificando Teste de Software**.  https://www.amazon.com.br/dp/B0CBDXJB7B 
@@ -10,12 +15,7 @@ Me chamo Anne Caroline Rocha e sou autora do livro **Simplificando Teste de Soft
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolsprak&layout=compact&langs_count=16&theme=dracula"/>
 </div -->
 
-Outras redes sociais que compartilho conteúdo são:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/annecaroline)](https://www.linkedin.com/in/annecaroline)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-f1311c?style=flat-square&labelColor=f1311c&logo=youtube&logoColor=white&link=https://www.youtube.com/@annerocha_qa)](https://www.youtube.com/@annerocha_qa)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/annerocha_qa)](https://www.instagram.com/annerocha_qa)
-[![Blog Badge](https://img.shields.io/badge/Blog-GTSW-green)](https://medium.com/gtsw)
 
 <!--
 **carolsprak/carolsprak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
