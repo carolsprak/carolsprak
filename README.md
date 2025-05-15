@@ -7,6 +7,9 @@
 
 Me chamo Anne Caroline Rocha e sou autora do livro **Simplificando Teste de Software**.  https://www.amazon.com.br/dp/B0CBDXJB7B 
 
+Além disso, o curso de Fundamentos de Teste de Software está disponível nesse link: https://www.insprak.com.br/cursos/
+
+
 <a href="https://www.amazon.com.br/dp/B0CBDXJB7B" target="_blank">
   <img src="https://carolsprak.github.io/books/capa.png" alt="livro-teste-software" width="250" height="auto">
 </a>
